@@ -45,7 +45,3 @@ This project is licensed under the MIT License.
 ---
 
 For any queries, feel free to contact us or open an issue in this repository.
-
----
-
-If you have any further modifications or additions, please let me know! 
