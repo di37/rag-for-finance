@@ -28,6 +28,10 @@ The notebook is designed to run on **Google Colab** to ensure compatibility and 
 
 The notebook uses Apple’s 10-K financial report as the primary data source. Ensure you have access to this document or follow the instructions in the notebook to retrieve it.
 
+## For Deep Dive
+
+Other concepts presented during the workshop can be found [here](https://drive.google.com/drive/folders/1hHQzuTtZbkrzQ596bLTrVlrPz1cSPRE5?usp=drive_link).
+
 ## Contributing
 
 Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to modify.
