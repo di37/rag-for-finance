@@ -1,4 +1,4 @@
-# Retrieval Augmented Generation(RAG) for Finance
+# Retrieval Augmented Generation (RAG) for Finance
 
 This repository contains a Jupyter Notebook demonstrating the application of Retrieval-Augmented Generation (RAG) techniques for financial ratio analysis. The notebook was presented during workshops hosted by **InterviewClub** and **PM Mixer - The Product Club**.
 
